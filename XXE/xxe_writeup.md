@@ -8,11 +8,11 @@ The first exercise in this module was an AJAX request. I originally could not ge
 
 The next exercise was a file upload. Initially, I neglected to embed the code properly into the Users section. Once I did that, it worked properly. 
 
-[Source code for file upload](XXE.xml)
+[Source code for file upload](XXE/XXE.xml)
 
 Then I completed the network mapping exercise. At first, I tried to be a hero and scan all ports in a single file, but this was not possible. So after separating them out into individual files, I found that I was able to grab the secret from port 4002.
 
-[Source code for network mapping](network_xxe_mapping_2.xml)
+[Source code for network mapping](XXE/network_xxe_mapping_2.xml)
 
 The final exercise was code patching. In order to patch the sandbox, all I had to do was add the following to disable external entities altogether: 
 ```
