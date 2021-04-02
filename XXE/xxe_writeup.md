@@ -8,7 +8,7 @@ The first exercise in this module was an AJAX request. I originally could not ge
 
 The next exercise was a file upload. Initially, I neglected to embed the code properly into the Users section. Once I did that, it worked properly. 
 
-[Source code for file upload](XXE_upload.xml)
+[Source code for file upload](xxe_upload.xml)
 
 Then I completed the network mapping exercise. At first, I tried to be a hero and scan all ports in a single file, but this was not possible. So after separating them out into individual files, I found that I was able to grab the secret from port 4002.
 
