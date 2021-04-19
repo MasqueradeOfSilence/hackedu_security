@@ -34,14 +34,14 @@ The solution to this is to run all applications in production mode, with stack t
 
 I tried the following URLs to see information: 
 
-http://sandbox-hackedu.com/html: Not Found error
-http://sandbox-hackedu.com/templates: Not Found error 
-http://sandbox-hackedu.com/js: Got us a minified Jquery file!
-http://sandbox-hackedu.com/javascript: Not Found error
-http://sandbox-hackedu.com/files: Not Found error 
-http://sandbox-hackedu.com/data: Not Found error
-http://sandbox-hackedu.com/root: Not Found error
-http://sandbox-hackedu.com/public_html: Not Found error
+- http://sandbox-hackedu.com/html: Not Found error
+- http://sandbox-hackedu.com/templates: Not Found error
+- http://sandbox-hackedu.com/js: Got us a minified Jquery file!
+- http://sandbox-hackedu.com/javascript: Not Found error
+- http://sandbox-hackedu.com/files: Not Found error 
+- http://sandbox-hackedu.com/data: Not Found error
+- http://sandbox-hackedu.com/root: Not Found error
+- http://sandbox-hackedu.com/public_html: Not Found error
 
 After that I stopped because it's a simulation after all and they were probably only going to have a grand total of one (1) error. 
 
@@ -51,8 +51,8 @@ Yes, that was all there was. The solution to this generally involves configurati
 
 ## Reconnaissance 4
 
-http://sandbox-hackedu.com/wp-admin: Not Found error
-http://sandbox-hackedu.com/admin: This takes us to an admin login page! 
+- http://sandbox-hackedu.com/wp-admin: Not Found error
+- http://sandbox-hackedu.com/admin: This takes us to an admin login page! 
 
 ## Weaponization and Delivery 4 / Exploitation 4
 
