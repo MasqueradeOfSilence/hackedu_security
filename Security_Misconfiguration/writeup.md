@@ -66,7 +66,7 @@ Well, username ubuntu and password ubuntu don't work either. Neither did ubuntu/
 
 The second hint said that the software is WebMailPro 7.6.1, which is more helpful. It is in the HTML: <title>WebMail Pro 7.6.1 Admin Panel</title> 
 
-So, we check (this)[https://afterlogic.com/docs/webmail-pro-net/adminpanel-guide/login-screen] and use the default credentials of mailadm/12345. This would have been a really bad idea to brute force lol, regardless of what the prompt says. 
+So, we check [this](https://afterlogic.com/docs/webmail-pro-net/adminpanel-guide/login-screen) and use the default credentials of mailadm/12345. This would have been a really bad idea to brute force lol, regardless of what the prompt says. 
 
 After using those credentials, we successfully accessed the admin's account. 
 
